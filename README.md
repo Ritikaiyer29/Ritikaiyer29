@@ -57,21 +57,6 @@ I'm a final-year B.Tech (AI) student at MPSTME, NMIMS University, currently work
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 ---
-
-### 🌟 Featured Projects
-
-**[ApexCRM Copilot](#) — IEEE Published** `Python · LangChain · FAISS · Firebase · Groq API`
-Dual-Context RAG system (FAISS policy vector store + Firebase client history) achieving a 92.37% efficiency gain, 1.15s generation time, and a 4.6/5.0 expert quality rating (N=30). DOI: 10.1109/11465863
-
-**AI-Powered Jira Automation Portal** `React TypeScript · .NET 8.0 C# · LLM API · IIS Server`
-Enterprise portal for 100+ Jira-restricted employees featuring an AI "Reformulate" engine with anti-hallucination guardrails, improving technical review efficiency by 50%.
-
-**RetailPulse — Sales & Customer Analytics** `Python · SQL · Scikit-learn · Power BI · Streamlit`
-End-to-end analytics on 500K+ transaction records using CTEs, window functions, and RFM analysis; built KMeans customer segmentation, a churn prediction model, and executive BI dashboards.
-
-**EC-FashionGAN — AI Style Transfer** `PyTorch · CycleGAN · Deep Learning`
-CycleGAN-based style-transfer model with evolutionary hyperparameter tuning, mode collapse detection, and adaptive learning rates for stable, high-quality image generation.
-
 ---
 
 ### 💼 Experience Snapshot
